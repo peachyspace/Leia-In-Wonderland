@@ -19,3 +19,21 @@ form div {
   margin: 1em;
   display: inline-block;
 }
+
+#canvas {
+  background-color: rgb(89, 194, 187);
+  width: 100%;
+  height: auto;
+  height: 100%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+#canvasContianer {
+  /* width: 80vw; */
+  height: 80vh;
+  margin-left: 50px;
+  height: auto;
+  margin-right: 50px;
+  background-color: rgb(223, 223, 135);
+}
